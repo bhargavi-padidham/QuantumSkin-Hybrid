@@ -112,7 +112,7 @@ QuantumSkin-Hybrid/
 
 * Setty Triveni
 * G. Charitha
-* P. Bhargavi
+* **P. Bhargavi:** Focused on system design, technical documentation, and research. Managed the data engineering phase by preparing the HAM10000 dataset and conducted core research on integrating the quantum circuits into the hybrid framework.
 * M.V. Mahalakshmi
 
 ### 👨‍🏫 Mentor
